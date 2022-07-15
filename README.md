@@ -1,9 +1,5 @@
 # joney의 Git
 
-```
-<img src="https://img.shields.io/badge/Python-blue?style=flat"/>
-```
-
 ### Language
 
 * Python
