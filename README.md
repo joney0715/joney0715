@@ -8,8 +8,6 @@
 
 * Python
 * Java
-* C++
-* ShellScript
 
 
 
@@ -18,6 +16,12 @@
 - HTML, CSS
 - JavaScript
 - TypeScript
+
+
+
+### embedded
+
+- C++
 
 
 
@@ -52,7 +56,7 @@
 - Kafka
 - Elasticsearch
 
-
+- ShellScript
 
 
 
