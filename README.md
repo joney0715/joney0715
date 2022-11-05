@@ -1,25 +1,52 @@
 # joney의 Git
 
-<img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/>
+## Language
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AWS&logoColor=white"/>
-
-### Language
+### Back-end
 
 * Python
 * Java
 * C++
-* Shell Script
+* ShellScript
 
 
 
-### Interest
+### Front-end
+
+- HTML, CSS
+- JavaScript
+- TypeScript
+
+
+
+## Interest
+
+### Infra
 
 * AWS
+* Azure
+
+
+
+### Web FrameWorks
+
 * Django
-* Kafka
-* NoSQL
-* SQL
+* Flask
+
+
+
+### DateBase
+
+* MongoDB
+* MySQL
+
+
+
+### Server
+
+- Docker
+- Kafka
+- Elasticsearch
 
 
 
