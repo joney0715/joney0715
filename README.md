@@ -1,7 +1,5 @@
 # joney의 Git
 
-<br>
-
 ## # Language
 
 ### Back-end
@@ -43,7 +41,7 @@
 
 
 
-### DateBase
+### DB
 
 * MongoDB
 * MySQL
