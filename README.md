@@ -17,7 +17,7 @@
 
 
 
-### embedded
+### Embedded
 
 - C++
 
